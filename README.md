@@ -44,7 +44,7 @@ During my bootcamp, I’ve covered a range of topics in Python. Here’s a break
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, HTML, CSS, JavaScript
+- **Languages**: Python, HTML, CSS
 - **Frameworks**: Flask
 - **Database**: SQLite
 - **Tools**: PyCharm, Git, GitHub
