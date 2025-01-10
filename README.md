@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m currently participating in a **Python bootca
 
 ## 🚀 About Me
 
-I’m passionate about technology and currently enhancing my skills through a Python bootcamp. Always eager to learn and grow in the tech field!
+I’m passionate about technology and currently enhancing my skills through a Python bootcamp.
 
 ---
 
