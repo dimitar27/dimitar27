@@ -6,8 +6,6 @@ Currently progressing through a comprehensive Software Engineering Bootcamp at M
 
 ---
 
-▶️ **Github Stats** ⚡
-
 ## Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-diyanov)
